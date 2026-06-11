@@ -1,5 +1,5 @@
 # MiOS-Project
-Sistema operativo optimizado para hardware de bajos recursos (2GB RAM / Android 5+). Dual Boot con kerlOS. Basado en lógica de bloques Sketchware con oftruccion R8
+Sistema operativo optimizado para hardware de bajos recursos (2GB RAM / Android 5+). Dual Boot con kerlOS. Basado en lógica de bloques Sketchware con oftruccion R8.
 reglas de uso:
 prohibido hacer promoción en el chat.
 prohibido spamear en el chat.
